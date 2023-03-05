@@ -1,6 +1,6 @@
 # User story for the FridgePrep app
 
-1. [] user login screen
+1. [ ] user login screen
 2. [ ] add a public facing page with contact info, pictures of food from a library of recipes
 3. [ ]  provide a welcome page after login
 4. [ ] Display a user and assigned role
