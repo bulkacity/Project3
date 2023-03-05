@@ -1,4 +1,4 @@
-Meal Planning and Grocery Delivery App
+Meal Planning and Grocery Delivery (future) App
 ======================================
 
 This is a full-stack application built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to plan their meals for the week, generate a grocery list based on those meals, and place an order for groceries to be delivered to their doorstep.
@@ -9,7 +9,7 @@ Features
 -   Recipe database: Users can browse a database of recipes, with filtering options such as cuisine type, dietary restrictions, and cooking time.
 -   Meal planner: Users can select recipes from the database and drag and drop them into a weekly meal planner. The app suggests recipes based on the user's preferences and dietary restrictions.
 -   Grocery list: The app generates a grocery list based on the recipes the user has selected. The app can also suggest substitutions for ingredients that are out of stock or hard to find.
--   Delivery service: The app partners with local grocery stores to provide delivery services. Users can pay a fee for delivery, or receive discounts for placing orders through the app.
+-   Delivery service: The app partners with local grocery stores to provide delivery services. Users can pay a fee for delivery, or receive discounts for placing orders through the app. (future feature maybe)
 -   User profiles: Users can create profiles and save their favorite recipes, dietary preferences, and grocery lists.
 -   Social features: Users can leave reviews, comments, and share their favorite recipes on social media.
 
